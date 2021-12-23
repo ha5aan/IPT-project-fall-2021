@@ -1,0 +1,195 @@
+﻿* {
+    margin: 0;
+}
+
+
+
+.header {
+    width: 100%;
+    height: 35px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+    .header a {
+        text-decoration: none;
+        color: #292725;
+        padding: 0px 15px 0px 15px;
+        margin: 15px 30px 0px 0px;
+        font-size: 15px;
+        font-family: 'DM Sans', sans-serif;
+    }
+
+
+        .dropdown-content a:hover,
+        .dropbtn:hover,
+        .header a:hover {
+            border-radius: 15px;
+            border-bottom: 4px solid #77acf1;
+        }
+
+.logo {
+    width: 200px;
+    padding: 0px 15px 0px 15px;
+    margin: 10px 30px 0px -200px;
+}
+
+.header .dropbtn {
+    background-color: white;
+    color: #292725;
+    padding: 0px 15px 0px 15px;
+    margin: 15px 30px 0px 0px;
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+
+
+.dropbtn {
+    background-color: white;
+    color: black;
+    margin: 10px 0px 0px 0px;
+    padding: 0px 15px 0px 15px;
+    font-size: 23px;
+    border: none;
+    font-family: 'KoHo', sans-serif;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 230px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    margin-left: -40%;
+    opacity: 0.9;
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        color: black;
+        width: 66%;
+        padding: 12px 40px;
+        font-size: 13px;
+        text-decoration: none;
+        display: block;
+        font-family: 'DM Sans', sans-serif;
+    }
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
+.footers {
+    text-align: center;
+    background-color: #292725;
+    color: white;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: 50px;
+    padding-top: 0px;
+    font-size: 17px;
+    font-family: 'DM Sans', sans-serif;
+    position: fixed;
+}
+
+.sub-container {
+    width: 850px;
+    height: 460px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 55%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+
+
+.signin {
+    background-image: linear-gradient(72.1deg, rgba(0, 0, 128, 1) 1.7%, rgba(100, 149, 237, 1) 99.1%);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 30px 10px 0px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 50%;
+    font-family: 'KoHo', sans-serif;
+    font-size: 20px;
+}
+
+
+    .signin:hover {
+        opacity: 0.8;
+        box-shadow: 7px 7px 5px 0px #233e8b;
+    }
+
+/*design for password button*/
+
+.pass-btn {
+    border: solid;
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(0, 84, 166, 1) 0%, rgba(132, 189, 201, 1) 90%);
+    border-radius: 10px;
+    font-size: 13px;
+    margin: -10px 100px 10px 0px;
+    border: none;
+    padding: 8px 10px;
+    font-family: 'KoHo', sans-serif;
+}
+
+    .pass-btn:hover {
+        box-shadow: 7px 7px 5px 0px #6379b4;
+    }
+
+.left-container {
+    background-color: white;
+    color: black;
+    width: 400px;
+    font-size: 15px;
+    font-family: 'KoHo', sans-serif;
+}
+
+.input-container {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-left: 10%;
+}
+
+
+.input-container-style input {
+    border: none;
+    font-size: 14px;
+    width: 80%;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    padding: 10px 0px 5px 0px;
+    margin: 5px 5px 10px 5px;
+}
+
+    .input-container-style input:focus {
+        outline: none;
+    }
+
+.input-container-style i {
+    padding: 10px 0px 5px 0px;
+    margin-left: 5px;
+    font-size: 25px;
+}
+
+.input-container-style {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 70%;
+}

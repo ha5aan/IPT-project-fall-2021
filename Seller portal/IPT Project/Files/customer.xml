@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rental_application>
+  <Account_Details>
+    <name>Adil Asif</name>
+    <customerID>Ad123</customerID>
+    <email>adilasif123@gmail.com</email>
+    <dob>26/11/1999</dob>
+    <gender>male</gender>
+    <address>Block-13/4, ABC Road, Islamabad, Pakistan</address>
+    <password>helloworld</password>
+  </Account_Details>
+  <Account_Details>
+    <name>Hasaan</name>
+    <customerID>Ha123</customerID>
+    <email>hasaan123@gmail.com</email>
+    <dob>15/12/2021</dob>
+    <gender>male</gender>
+    <address>Block-20/5, MNO Road, Lahore, Pakistan</address>
+    <password>hello123</password>
+  </Account_Details>
+</rental_application>
