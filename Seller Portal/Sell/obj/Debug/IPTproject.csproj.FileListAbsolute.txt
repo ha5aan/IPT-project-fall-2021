@@ -1,0 +1,15 @@
+C:\Users\AbduRraffay\Desktop\IPTproject\bin\Debug\IPTproject.exe.config
+C:\Users\AbduRraffay\Desktop\IPTproject\bin\Debug\IPTproject.exe
+C:\Users\AbduRraffay\Desktop\IPTproject\bin\Debug\IPTproject.pdb
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.csprojAssemblyReference.cache
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.Form1.resources
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.Properties.Resources.resources
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.csproj.GenerateResource.cache
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.csproj.CoreCompileInputs.cache
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.exe
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.pdb
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.orders.resources
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.signup.resources
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.signin.resources
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.products.resources
+C:\Users\AbduRraffay\Desktop\IPTproject\obj\Debug\IPTproject.product_input.resources

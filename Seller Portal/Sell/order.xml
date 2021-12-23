@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rental_application_orders>
+  <Order_Details>
+    <productID>la123</productID>
+    <sellerID>saad@gmail.com</sellerID>
+    <customerID>adilasif123@gmail.com</customerID>
+    <totalPrice>100060</totalPrice>
+    <shippingAddress>Hadi Road</shippingAddress>
+    <status>out for delivery</status>
+    <orderID>la1231140790415ad</orderID>
+  </Order_Details>
+</rental_application_orders>
